@@ -116,9 +116,7 @@ Contributions to this project are welcome! If you would like to contribute, plea
 
 For any additional information or inquiries, please go to my profile and send a mail.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
 ## Reference
 
